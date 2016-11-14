@@ -1,4 +1,4 @@
-# kmeans-lossy-compression
+# Image Lossy Compression based on K-Means color clustering
 Image compression framework based on color-clustering.
 
 ## Original image:
