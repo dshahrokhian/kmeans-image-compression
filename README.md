@@ -7,8 +7,8 @@ Image compression framework based on color-clustering.
 
 ## Compressed image:
 
+**Note:** The approximate file size is measured without taking into account the overhead of the (colors,size) annotation.
+
 <img src="https://github.com/dshahrokhian/kmeans-lossy-compression/blob/master/tests/16colors.png">
 <img src="https://github.com/dshahrokhian/kmeans-lossy-compression/blob/master/tests/5colors.png">
 <img src="https://github.com/dshahrokhian/kmeans-lossy-compression/blob/master/tests/2colors.png">
-
-**Note:** The approximate file size is measured without taking into account the overhead of the (colors,size) annotation.
